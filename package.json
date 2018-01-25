@@ -1,0 +1,21 @@
+{
+  "name": "gruntfile-starter",
+  "version": "1.0.0",
+  "description": "A pre-configured Gruntfile to use as a starting point for new projects",
+  "main": "Gruntfile.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurenhamel/gruntfile-starter.git"
+  },
+  "keywords": [
+    "grunt",
+    "gruntfile"
+  ],
+  "author": "Lauren Hamel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laurenhamel/gruntfile-starter/issues"
+  },
+  "homepage": "https://github.com/laurenhamel/gruntfile-starter#readme"
+}
